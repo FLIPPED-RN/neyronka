@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="dd6bbff6-09a9-4f94-af59-fc534eec4a7d" name="Changes" comment="learn file - update v3">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neyronka.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/neyronka.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +88,7 @@
       <updated>1776635336051</updated>
       <workItem from="1776635337098" duration="562000" />
       <workItem from="1776635927353" duration="4124000" />
-      <workItem from="1776765381731" duration="272000" />
+      <workItem from="1776765381731" duration="1115000" />
     </task>
     <task id="LOCAL-00001" summary="learn file - complete">
       <option name="closed" value="true" />
@@ -121,7 +122,15 @@
       <option name="project" value="LOCAL" />
       <updated>1776639408338</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="learn file - update v3">
+      <option name="closed" value="true" />
+      <created>1776765922277</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1776765922277</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
